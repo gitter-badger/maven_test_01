@@ -3,7 +3,7 @@
 [JavaFX](https://openjfx.io) + [jpackage](https://docs.oracle.com/en/java/javase/15/docs/specs/man/jpackage.html) +
 [Maven](http://maven.apache.org) template project for generating native desktop applications.
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maven-jpackage-template/community)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maven-jpackage-template/community) [![Join the chat at https://gitter.im/maven_test_01/community](https://badges.gitter.im/maven_test_01/community.svg)](https://gitter.im/maven_test_01/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Goal
 
